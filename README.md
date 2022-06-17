@@ -8,3 +8,5 @@ git clone https://github.com/yesmanchyk/config.git
 mkdir ~/.config
 cp -r config/nvim ~/.config
 ```
+
+Run Neovim and type :PackerSync
